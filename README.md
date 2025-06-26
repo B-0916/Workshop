@@ -1,1 +1,1 @@
-# Workshop
+# C programming assignment
